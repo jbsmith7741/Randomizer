@@ -8,8 +8,6 @@ Ideas for your randomised app.
 
 2. Random English word from at least 1000 commonly used words. 
 
-3. Large font or user defined font size in neon green on black background.
-
 4. Number above generate press.
 
 5. Large easy to reach and press generate button.
@@ -31,10 +29,6 @@ Ideas for your randomised app.
 13. Random letter with repetitions allowed. 
 
 14. Random city/town of the world.
-
-15. Settings and current state memory should hold after app is minimised and also closed.
-
-16. Don't use small fine fonts for anything. 
 
 17. Random movie selector from 1000 most epic films of past 40 years. 
 
